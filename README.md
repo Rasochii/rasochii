@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Rafael Chiesquini👋
-### Hi, I'm Rafael Chiesquini👋
 ### Bem-vindo ao meu perfil😄
+### Hi, I'm Rafael Chiesquini👋
 ### Welcome to my profile😄
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasochii&show_icons=true&theme=transparent)
